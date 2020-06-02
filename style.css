@@ -1,18 +1,18 @@
 /* style.css */
 body{
-  background: rgb(245,245,245);
-  color: green;
+  background: orange;
+  color: white;
   font-size: 25px;
-  font-family: Helvetica;
+  font-family: 'Ubuntu', sans-serif;
 }
 h1{
-  font-family: Courier;
+  font-family: 'Ubuntu', sans-serif;
   color: red;
   font-weight: lighter;
   font-size: 20px;
 }
 h2 {
-  font-family: Courier;
+  font-family: 'Ubuntu', sans-serif;
   color: pink;
   font-weight: lighter;
   font-size: 18px;
